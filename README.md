@@ -75,4 +75,3 @@ read_images_and_analyze_noise(data_dir, label_to_class_name, add_noise_to_clean,
 - Consider experimenting with different noise detection techniques for optimal results on your data.
 - Explore noise visualization methods for further analysis.
 
-I hope this enhanced README provides a clear and informative overview of the code!
