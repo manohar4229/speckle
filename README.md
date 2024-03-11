@@ -47,7 +47,7 @@ import read_images_and_analyze_noise
 data_dir = "path/to/your/data"
 
 # Optional: Dictionary mapping labels to class names (default: {'yes': 0, 'no': 1})
-label_to_class_name = {'yes': 'Brain Tumor', 'no': 'Normal'}
+label_to_class_name = {'yes': 0, 'no': 1}
 
 # Optional: Add speckle noise to clean images (default: False)
 add_noise_to_clean = False
